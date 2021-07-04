@@ -1,0 +1,7 @@
+{
+  "name": "addon_list",
+  "dependencies": {
+    "fancybox-plus": "*",
+    "jquery.easing": "*"
+  }
+}

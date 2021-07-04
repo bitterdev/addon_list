@@ -1,0 +1,330 @@
+# German translations for PACKAGE package
+# German translation for PACKAGE.
+# Copyright (C) 2017 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Fabian Bitter <fabianbitter@fabians-macbook-air-2.local>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-04 09:54+0200\n"
+"PO-Revision-Date: 2017-07-04 16:45+0200\n"
+"Last-Translator: Fabian Bitter <fabianbitter@fabians-macbook-air-2.local>\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.7\n"
+
+msgid "Thank You for purchasing my Software!"
+msgstr "Vielen Dank für den Erwerb meiner Software!"
+
+msgid "Follow me on Twitter and Facebook to get the latest news and notifications about updates, new add-ons/themes and special offers."
+msgstr "Folgen Sie mir auf Twitter und Facebook um Neuigkeiten zu erhalten über Updates, neue Add-ons/Themes und Sonderangebote."
+
+msgid "Displays details about an add-on."
+msgstr "Zeigt Details über die Erweiterung an."
+
+msgid "Lists all available add-ons."
+msgstr "Listet alle verfügbaren Erweiterungen auf."
+
+msgid "Add-on details"
+msgstr "Erweiterungsdetails"
+
+msgid "(Automatically detect)"
+msgstr "(Automatisch erkennen)"
+
+msgid "Description"
+msgstr "Beschreibung"
+
+msgid "No description available."
+msgstr "Keine Beschreibung verfügbar."
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Subtitle"
+msgstr "Untertitel"
+
+msgid "Specifications"
+msgstr "Spezifikationen"
+
+msgid "Background"
+msgstr "Hintergrund"
+
+msgid "Border"
+msgstr "Rahmen"
+
+msgid "Text"
+msgstr "Text"
+
+msgid "Value"
+msgstr "Wert"
+
+msgid "Checked color"
+msgstr "Tests"
+
+msgid "Buybutton (single)"
+msgstr "Kaufbutton (Einzeln)"
+
+msgid "Color"
+msgstr "Text"
+
+msgid "Buybutton (package)"
+msgstr "Kaufbutton (Paket)"
+
+msgid "Stars"
+msgstr "Sterne"
+
+msgid "Star (normal)"
+msgstr "Stern (normal)"
+
+msgid "Star (active)"
+msgstr "Stern (aktiv)"
+
+msgid "Gallery"
+msgstr "Gallerie"
+
+msgid "Footer background"
+msgstr "Fußbereich Hintergrund"
+
+msgid "Footer"
+msgstr "Fußbereich"
+
+msgid "Footer link (normal)"
+msgstr "Fußbereich Link (normal)"
+
+msgid "Footer link (hover)"
+msgstr "Fußbereich Link (hover)"
+
+msgid "Footer link (disabled)"
+msgstr "Fußbereich Link (deaktiviert)"
+
+#, php-format
+msgid "You must specify a valid color for the field \"%s\" in the section \"%s\"."
+msgstr "Sie müssen eine gültige Farbe angeben für das Feld \"%s\" im Bereich \"%s\"."
+
+msgid "Cancel"
+msgstr "Abbrechen"
+
+msgid "Choose"
+msgstr "Auswählen"
+
+msgid "Clear Color Selection"
+msgstr "Entferne Farbauswahl"
+
+msgid "Add-on"
+msgstr "Erweiterung"
+
+msgid "If you choose the automatic detection option, the add-on to be displayed is determined by the parameters of the HTTP request header."
+msgstr "Wenn Sie sich für die Variante automatische Erkennung entscheiden, wird die anzuzeigende Erweiterung über die Parameter des HTTP-Anfrageheader bestimmt."
+
+msgid "Icon"
+msgstr "Symbol"
+
+msgid "Visible"
+msgstr "Sichtbar"
+
+msgid "No"
+msgstr "Nein"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "Skill level"
+msgstr "Erfahrungslevel"
+
+msgid "Not available"
+msgstr "Nicht verfügbar"
+
+msgid "Developed by <a href=\"%s\" style=\"color: %s;\" target=\"_blank\">%s</a>."
+msgstr "Entwickelt von <a href=\"%s\" style=\"color: %s;\" target=\"_blank\">%s</a>."
+
+msgid "0 Reviews"
+msgstr "0 Rezesionen"
+
+msgid "1 Review"
+msgstr "1 Rezesion"
+
+#, php-format
+msgid "%s Reviews"
+msgstr "%s Rezensionen"
+
+msgid "Beginner"
+msgstr "Anfänger"
+
+msgid "Free"
+msgstr "Kostenlos"
+
+#, php-format
+msgid "$%s"
+msgstr "$%s"
+
+msgid "Purchase 1"
+msgstr "Kaufe 1"
+
+msgid "Purchase 5"
+msgstr "Kaufe 5"
+
+msgid "Screenshots"
+msgstr "Screenshots"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Live Demo"
+msgstr "Live Demo"
+
+msgid "Showcase"
+msgstr "Showcase"
+
+msgid "Current Version:"
+msgstr "Aktuelle Version:"
+
+msgid "Fully Translatable:"
+msgstr "Voll Übersetzbar:"
+
+msgid "Needs External Libraries:"
+msgstr "Benötigt externe Bibliotheken:"
+
+msgid "Compatible:"
+msgstr "Kompatibel:"
+
+msgid "License:"
+msgstr "Lizenz:"
+
+msgid "Support Response:"
+msgstr "Gewöhnliche Antwortzeit:"
+
+msgid "Support Hosted:"
+msgstr "Support Hosted:"
+
+msgid "Needs extra server permissions:"
+msgstr "Benötigt extra Serverberechtigungen"
+
+msgid "Needs Internet:"
+msgstr "Benötigt Internet"
+
+msgid "Marketplace Tests:"
+msgstr "Marktplatz Tests"
+
+msgid "Passed Automated Tests"
+msgstr "Automatische Test’s bestanden"
+
+msgid "Passed PRB Review"
+msgstr "PRB Prüfung bestanden"
+
+msgid "No item specifications available."
+msgstr "Es sind keine Spezifikation verfügbar."
+
+msgid "Add-on list"
+msgstr "Erweiterungsliste"
+
+msgid "General"
+msgstr "Allgemein"
+
+msgid "Sort by"
+msgstr "Sortieren nach"
+
+msgid "Number of downloads"
+msgstr "Anzahl der Downloads"
+
+msgid "Price"
+msgstr "Preis"
+
+msgid "Rating"
+msgstr "Bewertung"
+
+msgid "Sort order"
+msgstr "Sortierreihenfolge"
+
+msgid "Ascending"
+msgstr "Aufsteigend"
+
+msgid "Descending"
+msgstr "Absteigend"
+
+msgid "Internal product page"
+msgstr "Interne Produktseite"
+
+msgid "Leave the Internal product page field blank if you want the user to be redirect directly to concrete5.org as soon as he clicks on one of the add-ons."
+msgstr "Lassen Sie die das Feld Interne Produktseite leer wenn Sie möchten, dass der Benutzer direkt zu concrete5.org weitergeleitet wird sobald er auf eine der Erweiterungen klickt."
+
+msgid "%s Downloads"
+msgstr "%s Downloads"
+
+msgid "No add-ons available."
+msgstr "Es sind keine Erweiterungen verfügbar."
+
+msgid "Represent your concrete5 add-ons on your website."
+msgstr "Präsentieren Sie Ihre concrete5 Erweiterungen auf Ihrer Webseite."
+
+msgid "You must specify a valid username."
+msgstr "Sie müssen einen gültigen Benutzernamen angeben."
+
+msgid "You must specify a valid password."
+msgstr "Sie müssen ein gültiges Passwort angeben."
+
+msgid "Invalid credentials."
+msgstr "Ungültige Anmeldedaten."
+
+msgid "The credentials has been successfully updated."
+msgstr "Ihre Anmelde-Daten wurden erfolgreich gespeichert."
+
+msgid "If problems occur, please increase the max_execution_time setting in your PHP settings."
+msgstr "Falls Probleme auftreten sollten, erhöhen Sie bitte das das Limit der Einstellung max_execution_time in Ihren PHP Einstellungen."
+
+msgid "Please enter the credentials of your concrete5 account to synchronize your add-ons."
+msgstr "Bitte geben Sie die Anmeldedaten Ihres concrete5-Accounts ein, um Ihre Erweiterungen zu synchronisieren."
+
+msgid "Username"
+msgstr "Benutzername"
+
+msgid "Password"
+msgstr "Passwort"
+
+msgid "Synchronize add-ons"
+msgstr "Synchronisiere Erweiterungen"
+
+msgid "Synchronize your add-ons from your concrete5 account with your local database."
+msgstr "Synchronisieren Sie Ihre Erweiterungen von Ihrem concrete5-Account mit Ihrer lokalen Datenbank."
+
+msgid "concrete5 login credentials"
+msgstr "concrete5 Anmeldedaten"
+
+#, php-format
+msgid "Please enter the login credentials of your concrete5 account."
+msgstr "Bitte geben Sie die Anmeldedaten Ihres concrete5-Accounts ein."
+
+msgid "You can use the <a href=\"%s\">Automated Jobs</a> page to update your add-ons at any time. It is recommended to create a cronjob for this task so that your data is always up-to-date."
+msgstr "Über die Seite <a href=\"%s\">Automatisierte Aufträge</a> haben Sie jederzeit die Möglichkeit Ihre Erweiterungen zu aktualisieren. Es wird empfohlen einen Cronjob für diese Aufgabe zu erstellen, damit Ihre Daten stets aktuell sind."
+
+msgid "Save"
+msgstr "Speichern"
+
+msgid "Intermediate"
+msgstr "Fortgeschrittene"
+
+msgid "Expert"
+msgstr "Experten"
+
+msgid "Bleeding Edge"
+msgstr "Bleeding Edge"
+
+msgid "Unknown"
+msgstr "Unbekannt"
+
+msgid "My Add-ons"
+msgstr "Meine Erweiterungen"
+
+msgid "Data protection notice: Your login data is stored exclusively and encrypted in your database and transferred to concrete5.org only for authentication using an encrypted HTTPS connection. At the development of this add-on great importance was attached to the highest level of security so that even on the settings page on the Dashboard your password will only be transferred encoded."
+msgstr "Datenschutz-Hinweis: Ihre Login-Daten werden ausschließlich verschlüsselt in Ihrer Datenbank gespeichert und nur mittels verschlüsselter HTTPS-Verbindung für die Authentifizierung an concrete5.org übertragen. Bei der Entwicklung dieser Erweiterung wurde viel Wert auf die höchste Sicherheit gelegt, sodass auch in der Einstellungsseite im Dashboard Ihr Passwort nur chiffriert ausgegeben wird."
+
+msgid "No add-ons available. Please go to the <a href=\"%s\">Automated Jobs</a> page and run the \"Synchronize add-ons\" job to import your marketplace add-ons."
+msgstr "Es sind keine Erweiterungen verfügbar. Bitte gehen Sie auf die Seite <a href=\"%s\">Automatisierte Aufträge</a> und führen Sie den Auftrag \"Synchronize add-ons\" aus um Ihre Erweiterungen vom Marktplatz zu importieren.."
+
+msgid "Rate this add-on on concrete5.org and as a thank-you gift can choose another add-on of mine up to $35. This offer may only be claimed once. Click <a href=\"%s\" class=\"alert-link\"> here </a> to rate now."
+msgstr "Bewerten Sie diese Erweiterung auf concrete5.org und als Dankeschön dürfen Sie sich eine weitere Erweiterungen von mir im Wert von $35 raussuchen. Dieses Angebot darf nur einmal beansprucht werden. Klicken Sie <a href=\"%s\" class=\"alert-link\">hier</a> um jetzt eine Bewertung abzugeben."

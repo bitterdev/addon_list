@@ -1,0 +1,117 @@
+Version 1.1.2
+==================================================
+- Improve page speed / Optimize cache settings
+
+Version 1.1.1
+==================================================
+- Improve page speed / Optimize cache settings
+
+Version 1.1.0
+==================================================
+- Change app icon
+
+Version 1.0.5
+==================================================
+- Add new marketing elements
+
+Version 1.0.4
+==================================================
+- Add export interface
+
+Version 1.0.3
+==================================================
+- Fix with global phpQuery
+
+Version 1.0.2
+==================================================
+- Change app-icon
+
+Version 1.0.0.2
+==================================================
+- Add post setup popup
+
+Version 1.0.0.1
+==================================================
+- Add special offer notice
+
+Version 0.9.9.3
+==================================================
+- Improve import process
+- Display version number on addon details page
+- Add error logging
+
+Version 0.9.9.2
+==================================================
+- Fix selector for fetching modern theme package icons
+
+Version 0.9.9.1
+==================================================
+- Add help note below product page field
+- Use custom image (concrete5 hand) when no package icon is available
+
+Version 0.9.8.9
+==================================================
+- Fix issues in MySQL strict mode
+- Small improvements
+
+Version 0.9.8.8
+==================================================
+- Update database schema
+- Improve add-on import process
+
+Version 0.9.8.2
+==================================================
+- Adding theme support
+
+Version 0.9.8.0
+==================================================
+- Fix pagination url
+
+Version 0.9.7.8
+==================================================
+- Add quote section to add-on detail block element
+- Add discount to add-on detail block element
+- Removing defined or die in main controller
+
+Version 0.9.7.7
+==================================================
+- Add pagination feature for addon list
+- Disabling importing while installation
+
+Version 0.9.7.5
+==================================================
+- Change field type for description to TEXT / SQL CLOB (field size is now 65,535 bytes)
+- Change installation running order (Install the block set "Developer" before installing the block types)
+
+Version 0.9.7.3
+==================================================
+- Small code improvements
+- Add privacy disclaimer to setup progress
+- Remove all config values on uninstall
+- Add real "add to shoppingcart" links to detail page
+
+Version 0.9.7.2
+==================================================
+- Create a queueable job for importing
+- Using the developer block type set
+- Fixing legacy import error (use HTML instead of plaintext)
+- New filter in addon list block "Marketplace type" with the options: Legacy, Modern and Both.
+- Using profile page as new add-on source because of a limit on concrete5.org
+- Using another location for cookie.txt
+- Use alternative short description
+
+Version 0.9.6.8
+==================================================
+- Added steevb suggested HTML imporvements
+- Added password encryption / decryption functionality
+- Linking the review text
+
+Version 0.9.6.7
+==================================================
+- Fixing error importing legacy add-ons
+- Make adding demo content optional in setup
+- Removed the executed or die statements in the controllers
+
+Version 0.9.6.2
+==================================================
+- Submitted to PRB

@@ -1,0 +1,23 @@
+image: ubuntu:16.04
+
+pipelines:
+  branches:
+    release:
+      - step:
+          caches:
+            - node
+          script:
+            - export LANG=C.UTF-8
+            - apt-get -q update
+            - apt-get -q -y install software-properties-common python-software-properties
+            - apt-add-repository -y ppa:ondrej/php
+            - apt-get -q update
+            - apt-get -q -y install gettext git npm nodejs php7.0-cli
+            - ln -s /usr/bin/nodejs /usr/bin/node
+            - npm cache clean -f
+            - npm install -g n
+            - n stable
+            - npm config set registry http://registry.npmjs.org/
+            - npm install --unsafe-perm
+            - sh scripts/cleanup_vendor_code.sh
+            - ./node_modules/grunt-cli/bin/grunt deploy --username="$CONCRETE_USERNAME" --password="$CONCRETE_PASSWORD"

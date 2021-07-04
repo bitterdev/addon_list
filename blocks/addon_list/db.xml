@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema version="0.3">
+    <table name="btAddonList">
+        <field name="bID" type="I">
+            <unsigned/>
+            <key/>
+        </field>
+        
+        <field name="backgroundColor" type="C" length="40">
+            <default value="#ffffff"/>
+        </field>
+        
+        <field name="borderColor" type="C" length="40">
+            <default value="#e5e5e5"/>
+        </field>
+        
+        <field name="footerColor" type="C" length="40">
+            <default value="#828282"/>
+        </field>
+        
+        <field name="priceColor" type="C" length="40">
+            <default value="#0099ff"/>
+        </field>
+        
+        <field name="textColor" type="C" length="40">
+            <default value="#000000"/>
+        </field>
+        
+        <field name="normalStarColor" type="C" length="40">
+            <default value="#666666"/>
+        </field>
+        
+        <field name="activeStarColor" type="C" length="40">
+            <default value="#0099ff"/>
+        </field>
+        
+        <field name="reviewTextColor" type="C" length="40">
+            <default value="#666666"/>
+        </field>
+        
+        <field name="paginationItemBackgroundColor" type="C" length="40">
+            <default value="#ffffff"/>
+        </field>
+        
+        <field name="paginationItemTextColor" type="C" length="40">
+            <default value="#0184c5"/>
+        </field>
+        
+        <field name="paginationItemBorderColor" type="C" length="40">
+            <default value="#dddddd"/>
+        </field>
+        
+        <field name="paginationItemActiveTextColor" type="C" length="40">
+            <default value="#999999"/>
+        </field>
+        
+        <field name="paginationItemActiveBackgroundColor" type="C" length="40">
+            <default value="#f5f5f5"/>
+        </field>
+        
+        <field name="hasPagination" type="I2">
+            <default value="0"/>
+        </field>
+        
+        <field name="itemsPerPage" type="I2">
+            <default value="25"/>
+        </field>
+        
+        <field name="sortColumn" type="C" length="60">
+            <default value="singlePrice"/>
+        </field>
+        
+        <field name="sortOrder" type="C" length="4">
+            <default value="asc"/>
+        </field>
+        
+        <field name="productPageId" type="I">
+            <unsigned/>
+        </field>
+        
+        <field name="marketplaceType" type="I">
+            <unsigned/>
+        </field>
+    </table>
+</schema>

@@ -1,0 +1,9 @@
+{
+    "require": {
+        "cagartner/phpquery": "^0.9.8",
+        "jasongrimes/paginator": "~1.0"
+    },
+    "require-dev": {
+        "friendsofphp/php-cs-fixer": "2.1.3"
+    }
+}

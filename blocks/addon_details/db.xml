@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema version="0.3">
+    <table name="btAddonItem">
+        <field name="bID" type="I">
+            <unsigned/>
+            <key/>
+        </field>
+        
+        <field name="slug" type="C" length="255" />
+        
+        <field name="descriptionVisible" type="L">
+            <default value="1"/>
+        </field>
+        
+        <field name="descriptionColor" type="C" length="40">
+            <default value="#333333"/>
+        </field>
+        
+        <field name="iconVisible" type="L">
+            <default value="1"/>
+        </field>
+        
+        <field name="titleVisible" type="L">
+            <default value="1"/>
+        </field>
+        
+        <field name="titleColor" type="C" length="40">
+            <default value="#333333"/>
+        </field>
+        
+        <field name="subtitleColor" type="C" length="40">
+            <default value="#a4a4a4"/>
+        </field>
+        
+        <field name="specificationsVisible" type="L">
+            <default value="1"/>
+        </field>
+        
+        <field name="specificationsBackgroundColor" type="C" length="40">
+            <default value="#e8f8ff"/>
+        </field>
+        
+        <field name="specificationsBorderColor" type="C" length="40">
+            <default value="#99ccff"/>
+        </field>
+        
+        <field name="specificationsTextColor" type="C" length="40">
+            <default value="#222222"/>
+        </field>
+        
+        <field name="specificationsValueColor" type="C" length="40">
+            <default value="#0099ff"/>
+        </field>
+        
+        <field name="specificationsCheckedColor" type="C" length="40">
+            <default value="#468847"/>
+        </field>
+        
+        <field name="singleButtonVisible" type="L">
+            <default value="1"/>
+        </field>
+        
+        <field name="singleButtonTextColor" type="C" length="40">
+            <default value="#ffffff"/>
+        </field>
+        
+        <field name="singleButtonBackgroundColor" type="C" length="40">
+            <default value="#007ccf"/>
+        </field>
+        
+        <field name="packageButtonVisible" type="L">
+            <default value="1"/>
+        </field>
+        
+        <field name="packageButtonTextColor" type="C" length="40">
+            <default value="#ffffff"/>
+        </field>
+        
+        <field name="packageButtonBackgroundColor" type="C" length="40">
+            <default value="#4c4c4c"/>
+        </field>
+        
+        <field name="normalStarColor" type="C" length="40">
+            <default value="#666666"/>
+        </field>
+        
+        <field name="activeStarColor" type="C" length="40">
+            <default value="#0099ff"/>
+        </field>
+        
+        <field name="reviewTextColor" type="C" length="40">
+            <default value="#666666"/>
+        </field>
+        
+        <field name="skillLevelVisible" type="L">
+            <default value="1"/>
+        </field>
+        
+        <field name="ratingVisible" type="L">
+            <default value="1"/>
+        </field>
+        
+        <field name="galleryVisible" type="L">
+            <default value="1"/>
+        </field>
+        
+        <field name="galleryBackgroundColor" type="C" length="40">
+            <default value="#f8f8f8"/>
+        </field>
+        
+        <field name="galleryBorderColor" type="C" length="40">
+            <default value="#a8a8a8"/>
+        </field>
+        
+        <field name="galleryFooterBackgroundColor" type="C" length="40">
+            <default value="#ffffff"/>
+        </field>
+        
+        <field name="galleryFooterLinkNormalColor" type="C" length="40">
+            <default value="#999999"/>
+        </field>
+        
+        <field name="galleryFooterLinkHoverColor" type="C" length="40">
+            <default value="#0099ff"/>
+        </field>
+        
+        <field name="galleryFooterLinkDisabledColor" type="C" length="40">
+            <default value="#cccccc"/>
+        </field>
+        
+        <field name="quoteVisible" type="L">
+            <default value="1"/>
+        </field>
+        
+        <field name="quoteTextColor" type="C" length="40">
+            <default value="#666666"/>
+        </field>
+        
+        <field name="quoteAuthorLinkColor" type="C" length="40">
+            <default value="#0086ca"/>
+        </field>
+        
+        <field name="packageButtonDiscountColor" type="C" length="40">
+            <default value="#ffa800"/>
+        </field>
+    </table>
+</schema>
